@@ -13,8 +13,7 @@ Robot Framework requer [Python](https://www.python.org/downloads/) v2.7+ para ro
 ### Instale as dependências:
 
 ```sh
-pip install robotframework
-pip install robotframework-seleniumlibrary
+pip install -r requirements.txt
 ```
 ### Faça o download do driver:
 Você deve ter o driver (Chromedriver, Geckodriver) na pasta raiz do projeto, lembrando que a versão do driver deve ser de acordo com a versão do seu navegador!
