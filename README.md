@@ -34,9 +34,7 @@ Vamos instalar as extensões que irão nos auxiliar na criação e execução do
 
 ## 🚀 Passo a passo
 ### Clone o projeto
-```sh
-git clone 
-```
+```git clone https://github.com/AmorimGabrielCE/TesteQA-Automatizado-JR.git```
 
 ## 💻 Execução
 
